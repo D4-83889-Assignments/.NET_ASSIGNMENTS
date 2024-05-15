@@ -1,0 +1,14 @@
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\bin\Debug\net6.0\Ques-3.exe
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\bin\Debug\net6.0\Ques-3.deps.json
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\bin\Debug\net6.0\Ques-3.runtimeconfig.json
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\bin\Debug\net6.0\Ques-3.dll
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\bin\Debug\net6.0\Ques-3.pdb
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\obj\Debug\net6.0\Ques-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\obj\Debug\net6.0\Ques-3.AssemblyInfoInputs.cache
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\obj\Debug\net6.0\Ques-3.AssemblyInfo.cs
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\obj\Debug\net6.0\Ques-3.csproj.CoreCompileInputs.cache
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\obj\Debug\net6.0\Ques-3.dll
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\obj\Debug\net6.0\refint\Ques-3.dll
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\obj\Debug\net6.0\Ques-3.pdb
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\obj\Debug\net6.0\Ques-3.genruntimeconfig.cache
+C:\Users\Gadget Care\source\repos\Assignment-1\Ques-3\obj\Debug\net6.0\ref\Ques-3.dll

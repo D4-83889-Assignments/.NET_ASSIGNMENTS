@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A16A5A97-323D-41C5-B74D-407ECC038FB4}|Ques-3\\Ques-3.csproj|c:\\users\\gadget care\\source\\repos\\assignment-1\\ques-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16A5A97-323D-41C5-B74D-407ECC038FB4}|Ques-3\\Ques-3.csproj|solutionrelative:ques-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41A67E9-B582-481B-A88E-06F62C1FFCC0}|Ques-2\\Ques-2.csproj|c:\\users\\gadget care\\source\\repos\\assignment-1\\ques-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41A67E9-B582-481B-A88E-06F62C1FFCC0}|Ques-2\\Ques-2.csproj|solutionrelative:ques-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5886ACE-0CC9-4FE6-A0F6-99C26628D7D7}|Ques-1\\Ques-1.csproj|c:\\users\\gadget care\\source\\repos\\assignment-1\\ques-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5886ACE-0CC9-4FE6-A0F6-99C26628D7D7}|Ques-1\\Ques-1.csproj|solutionrelative:ques-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5886ACE-0CC9-4FE6-A0F6-99C26628D7D7}|Ques-1\\Ques-1.csproj|c:\\users\\gadget care\\source\\repos\\assignment-1\\ques-1\\ques-1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5886ACE-0CC9-4FE6-A0F6-99C26628D7D7}|Ques-1\\Ques-1.csproj|solutionrelative:ques-1\\ques-1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-3\\Program.cs",
+              "RelativeDocumentMoniker": "Ques-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-3\\Program.cs",
+              "RelativeToolTip": "Ques-3\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:25:20.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-2\\Program.cs",
+              "RelativeDocumentMoniker": "Ques-2\\Program.cs",
+              "ToolTip": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-2\\Program.cs",
+              "RelativeToolTip": "Ques-2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:31:26.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ques-1",
+              "DocumentMoniker": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-1\\Ques-1.csproj",
+              "RelativeDocumentMoniker": "Ques-1\\Ques-1.csproj",
+              "ToolTip": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-1\\Ques-1.csproj",
+              "RelativeToolTip": "Ques-1\\Ques-1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T09:29:42.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-1\\Program.cs",
+              "RelativeDocumentMoniker": "Ques-1\\Program.cs",
+              "ToolTip": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-1\\Program.cs",
+              "RelativeToolTip": "Ques-1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:29:08.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
