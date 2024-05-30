@@ -1,0 +1,15 @@
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\obj\Debug\net6.0\Ques_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\obj\Debug\net6.0\Ques_8.AssemblyInfoInputs.cache
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\obj\Debug\net6.0\Ques_8.AssemblyInfo.cs
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\obj\Debug\net6.0\Ques_8.csproj.CoreCompileInputs.cache
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\obj\Debug\net6.0\Ques_8.sourcelink.json
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\bin\Debug\net6.0\Ques_8.exe
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\bin\Debug\net6.0\Ques_8.deps.json
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\bin\Debug\net6.0\Ques_8.runtimeconfig.json
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\bin\Debug\net6.0\Ques_8.dll
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\bin\Debug\net6.0\Ques_8.pdb
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\obj\Debug\net6.0\Ques_8.dll
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\obj\Debug\net6.0\refint\Ques_8.dll
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\obj\Debug\net6.0\Ques_8.pdb
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\obj\Debug\net6.0\Ques_8.genruntimeconfig.cache
+C:\Users\Gadget Care\Desktop\DAC\DOTNET\Vatsal\.NET_ASSIGNMENTS\Assignment-6\Ques_8\obj\Debug\net6.0\ref\Ques_8.dll

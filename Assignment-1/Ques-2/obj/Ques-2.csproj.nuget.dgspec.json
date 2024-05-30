@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-2\\Ques-2.csproj": {}
+    "C:\\Users\\Gadget Care\\Desktop\\DAC\\DOTNET\\Vatsal\\.NET_ASSIGNMENTS\\Assignment-1\\Ques-2\\Ques-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-2\\Ques-2.csproj": {
+    "C:\\Users\\Gadget Care\\Desktop\\DAC\\DOTNET\\Vatsal\\.NET_ASSIGNMENTS\\Assignment-1\\Ques-2\\Ques-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-2\\Ques-2.csproj",
+        "projectUniqueName": "C:\\Users\\Gadget Care\\Desktop\\DAC\\DOTNET\\Vatsal\\.NET_ASSIGNMENTS\\Assignment-1\\Ques-2\\Ques-2.csproj",
         "projectName": "Ques-2",
-        "projectPath": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-2\\Ques-2.csproj",
+        "projectPath": "C:\\Users\\Gadget Care\\Desktop\\DAC\\DOTNET\\Vatsal\\.NET_ASSIGNMENTS\\Assignment-1\\Ques-2\\Ques-2.csproj",
         "packagesPath": "C:\\Users\\Gadget Care\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-2\\obj\\",
+        "outputPath": "C:\\Users\\Gadget Care\\Desktop\\DAC\\DOTNET\\Vatsal\\.NET_ASSIGNMENTS\\Assignment-1\\Ques-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gadget Care\\AppData\\Roaming\\NuGet\\NuGet.Config",

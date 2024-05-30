@@ -9,7 +9,7 @@
             int num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Argument2: ");
             int num2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter Operand: ");
+            Console.WriteLine("Enter Operator: ");
             string op = Console.ReadLine();
 
 
@@ -41,6 +41,8 @@
                     break;
             }
             Console.WriteLine("Program Exited");
+           //Console.WriteLine("Press Entery to exit");
+           // Console.ReadLine();
         }
     }
 }

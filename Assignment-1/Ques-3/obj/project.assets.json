@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-3\\Ques-3.csproj",
+      "projectUniqueName": "C:\\Users\\Gadget Care\\Desktop\\DAC\\DOTNET\\Vatsal\\.NET_ASSIGNMENTS\\Assignment-1\\Ques-3\\Ques-3.csproj",
       "projectName": "Ques-3",
-      "projectPath": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-3\\Ques-3.csproj",
+      "projectPath": "C:\\Users\\Gadget Care\\Desktop\\DAC\\DOTNET\\Vatsal\\.NET_ASSIGNMENTS\\Assignment-1\\Ques-3\\Ques-3.csproj",
       "packagesPath": "C:\\Users\\Gadget Care\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gadget Care\\source\\repos\\Assignment-1\\Ques-3\\obj\\",
+      "outputPath": "C:\\Users\\Gadget Care\\Desktop\\DAC\\DOTNET\\Vatsal\\.NET_ASSIGNMENTS\\Assignment-1\\Ques-3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gadget Care\\AppData\\Roaming\\NuGet\\NuGet.Config",
