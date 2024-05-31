@@ -1,0 +1,7 @@
+D:\Class\.NET\Assignments\Assignment_2\Question_12\bin\Debug\Question_12.exe.config
+D:\Class\.NET\Assignments\Assignment_2\Question_12\bin\Debug\Question_12.exe
+D:\Class\.NET\Assignments\Assignment_2\Question_12\bin\Debug\Question_12.pdb
+D:\Class\.NET\Assignments\Assignment_2\Question_12\obj\Debug\Question_12.csproj.AssemblyReference.cache
+D:\Class\.NET\Assignments\Assignment_2\Question_12\obj\Debug\Question_12.csproj.CoreCompileInputs.cache
+D:\Class\.NET\Assignments\Assignment_2\Question_12\obj\Debug\Question_12.exe
+D:\Class\.NET\Assignments\Assignment_2\Question_12\obj\Debug\Question_12.pdb

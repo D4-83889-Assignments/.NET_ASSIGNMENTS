@@ -1,0 +1,6 @@
+D:\Class\.NET\Assignments\Assignment_2\EmployeeClassLib\bin\Debug\EmployeeClassLib.dll
+D:\Class\.NET\Assignments\Assignment_2\EmployeeClassLib\bin\Debug\EmployeeClassLib.pdb
+D:\Class\.NET\Assignments\Assignment_2\EmployeeClassLib\obj\Debug\EmployeeClassLib.csproj.AssemblyReference.cache
+D:\Class\.NET\Assignments\Assignment_2\EmployeeClassLib\obj\Debug\EmployeeClassLib.csproj.CoreCompileInputs.cache
+D:\Class\.NET\Assignments\Assignment_2\EmployeeClassLib\obj\Debug\EmployeeClassLib.dll
+D:\Class\.NET\Assignments\Assignment_2\EmployeeClassLib\obj\Debug\EmployeeClassLib.pdb
